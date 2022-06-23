@@ -1,2 +1,2 @@
 # Basic-Calculator
-[Github url](https://github.com/EuniceTemi/Basic-Calculator)
+[Github url](https://eunicetemi.github.io/Basic-Calculator/)
